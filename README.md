@@ -20,7 +20,7 @@ Tudo isso usando a biblioteca speedtest-cli.
 
 - Biblioteca ``` speedtest-cli ```
 
-📊 Exemplo de saída
+## 📊 Exemplo de saída
 ```
 Vel. Download: 312.45 Mbps
 Vel. Upload: 104.33 Mbps
