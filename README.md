@@ -8,7 +8,7 @@ Este projeto é um script simples em Python que mede a velocidade da sua interne
 
 - 📡 Ping (latência)
 
-## 🔧 Biblioteca 
+## 📚 Biblioteca 
 
 ``` pip install speedtest-cli ```
 
